@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.box{
+    padding:20px;
+    background-color: aqua;
+    width: 110px;
+    height:110px;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: rgb(39, 215, 162);
+}
+.box3{
+    background-color: rgb(211, 229, 15);
+}
+.box4{
+    background-color: rgb(47, 20, 184);
+}
+.box5{
+    background-color: rgb(13, 161, 134);
+}
+.box6{
+    background-color: rgb(21, 118, 203);
+}
