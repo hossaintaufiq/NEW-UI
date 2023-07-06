@@ -29,3 +29,35 @@
 .item:hover{
     color: rgb(114, 143, 238);
 }
+.banner-img{
+    width: 300px;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    background-image: url("/photos/background.png"),linear-gradient(45deg,rgb(0, 0, 0),rgb(40, 33, 33));
+}
+.title{
+    font-size: 55px;
+    font-weight: bold;
+}
+.description{
+    font-size: 18px;
+    margin-top:15px ;
+    margin-bottom: 15px;
+}
+.btn{
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: white;
+    border:none;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(45, 45, 101);
+}
+
