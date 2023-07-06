@@ -82,11 +82,14 @@
     box-shadow: 8px 8px 15px gray;
     text-align: center;
     padding: 15px;
-    background-color: black;
+    background-image: url("/photos/background.png"),linear-gradient(45deg,rgb(0, 0, 0),rgb(40, 33, 33));
+    
     color: white;
 }
 .our-services-container{
    background-color: black;
+   background-image: url("/photos/background.png"),linear-gradient(45deg,rgb(0, 0, 0),rgb(40, 33, 33));
+
 }
 .icon{
     width:100px ;
