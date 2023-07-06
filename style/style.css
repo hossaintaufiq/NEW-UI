@@ -70,6 +70,30 @@
     display: flex;
     justify-content: space-around;
 }
-
+.services{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.service{
+    width: 230px;
+    height: 280px;
+    box-shadow: 8px 8px 15px gray;
+    text-align: center;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+.our-services-container{
+   background-color: black;
+}
+.icon{
+    width:100px ;
+}
+.box-btn{
+    background-color: grey;
+    margin-top: 10px;
+}
 
 
