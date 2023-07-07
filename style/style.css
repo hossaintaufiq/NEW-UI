@@ -98,5 +98,17 @@
     background-color: grey;
     margin-top: 10px;
 }
-
+.footer-container{
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.child{
+    list-style: none;
+}
 
